@@ -7,7 +7,7 @@ This is the code for [this](https://youtu.be/BXw8vQXxvqc) video, "Build a Cybers
 1. Check out this [Live Demo](http://aws-web-analytics-dashboard.s3-website-us-east-1.amazonaws.com/)
 2. Follow [this](https://cube.dev/blog/building-open-source-google-analytics-from-scratch/) blog post.
 
-# Package desriptions
+# Package descriptions
 
 - [Event Collection AWS Lambda function](./event-collection)
 - [Analytics Dashboard React Application](./analytics-dashboard)
